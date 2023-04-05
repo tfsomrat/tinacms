@@ -1,5 +1,11 @@
 # tina-graphql
 
+## 1.4.7
+
+### Patch Changes
+
+- 40d15644f: Update indexAllContent to use the passed in schema instead of fetching it from level after writing
+
 ## 1.4.6
 
 ### Patch Changes
